@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites name="pytest tests"><testsuite name="pytest" errors="27" failures="0" skipped="0" tests="27" time="1.947" timestamp="2026-07-01T03:30:41.475660-03:00" hostname="Spin"><testcase classname="" name="tests.algo.test_action_distributions" time="0.000"><error message="collection failure">ImportError while importing test module 'C:\Repositorio git\Contribuicao\sample-factory\tests\algo\test_action_distributions.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+C:\Python312\Lib\importlib\__init__.py:90: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+tests\algo\test_action_distributions.py:3: in &lt;module&gt;
+    import gymnasium as gym
+E   ModuleNotFoundError: No module named 'gymnasium'</error></testcase><testcase classname="" name="tests.algo.test_learner" time="0.000"><error message="collection failure">ImportError while importing test module 'C:\Repositorio git\Contribuicao\sample-factory\tests\algo\test_learner.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+C:\Python312\Lib\importlib\__init__.py:90: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+tests\algo\test_learner.py:5: in &lt;module&gt;
+    import torch
+E   ModuleNotFoundError: No module named 'torch'</error></testcase><testcase classname="" name="tests.algo.test_model" time="0.000"><error message="collection failure">ImportError while importing test module 'C:\Repositorio git\Contribuicao\sample-factory\tests\algo\test_model.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+C:\Python312\Lib\importlib\__init__.py:90: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+tests\algo\test_model.py:2: in &lt;module&gt;
+    import torch
+E   ModuleNotFoundError: No module named 'torch'</error></testcase><testcase classname="" name="tests.algo.test_model_builder" time="0.000"><error message="collection failure">ImportError while importing test module 'C:\Repositorio git\Contribuicao\sample-factory\tests\algo\test_model_builder.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+C:\Python312\Lib\importlib\__init__.py:90: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+tests\algo\test_model_builder.py:3: in &lt;module&gt;
+    import torch
+E   ModuleNotFoundError: No module named 'torch'</error></testcase><testcase classname="" name="tests.algo.test_pbt" time="0.000"><error message="collection failure">ImportError while importing test module 'C:\Repositorio git\Contribuicao\sample-factory\tests\algo\test_pbt.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+C:\Python312\Lib\importlib\__init__.py:90: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+tests\algo\test_pbt.py:1: in &lt;module&gt;
+    from tests.examples.test_example_multi import default_multi_cfg, run_test_env_multi
+tests\examples\test_example_multi.py:5: in &lt;module&gt;
+    from sample_factory.utils.typing import Config
+sample_factory\utils\typing.py:6: in &lt;module&gt;
+    import torch
+E   ModuleNotFoundError: No module named 'torch'</error></testcase><testcase classname="" name="tests.algo.test_rms" time="0.000"><error message="collection failure">ImportError while importing test module 'C:\Repositorio git\Contribuicao\sample-factory\tests\algo\test_rms.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+C:\Python312\Lib\importlib\__init__.py:90: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+tests\algo\test_rms.py:4: in &lt;module&gt;
+    import torch
+E   ModuleNotFoundError: No module named 'torch'</error></testcase><testcase classname="" name="tests.algo.test_rnn" time="0.000"><error message="collection failure">ImportError while importing test module 'C:\Repositorio git\Contribuicao\sample-factory\tests\algo\test_rnn.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+C:\Python312\Lib\importlib\__init__.py:90: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+tests\algo\test_rnn.py:3: in &lt;module&gt;
+    import torch
+E   ModuleNotFoundError: No module named 'torch'</error></testcase><testcase classname="" name="tests.algo.test_spaces" time="0.000"><error message="collection failure">ImportError while importing test module 'C:\Repositorio git\Contribuicao\sample-factory\tests\algo\test_spaces.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+C:\Python312\Lib\importlib\__init__.py:90: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+tests\algo\test_spaces.py:3: in &lt;module&gt;
+    from sample_factory.algo.utils.spaces.discretized import Discretized
+sample_factory\algo\utils\spaces\discretized.py:1: in &lt;module&gt;
+    from gymnasium.spaces import Discrete
+E   ModuleNotFoundError: No module named 'gymnasium'</error></testcase><testcase classname="" name="tests.algo.test_tensordict" time="0.000"><error message="collection failure">ImportError while importing test module 'C:\Repositorio git\Contribuicao\sample-factory\tests\algo\test_tensordict.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+C:\Python312\Lib\importlib\__init__.py:90: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+tests\algo\test_tensordict.py:3: in &lt;module&gt;
+    import torch
+E   ModuleNotFoundError: No module named 'torch'</error></testcase><testcase classname="" name="tests.envs.atari.test_atari" time="0.000"><error message="collection failure">ImportError while importing test module 'C:\Repositorio git\Contribuicao\sample-factory\tests\envs\atari\test_atari.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+C:\Python312\Lib\importlib\__init__.py:90: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+tests\envs\atari\test_atari.py:6: in &lt;module&gt;
+    from sample_factory.algo.utils.misc import ExperimentStatus
+sample_factory\algo\utils\misc.py:1: in &lt;module&gt;
+    import torch
+E   ModuleNotFoundError: No module named 'torch'</error></testcase><testcase classname="" name="tests.envs.atari.test_envpool_atari" time="0.000"><error message="collection failure">ImportError while importing test module 'C:\Repositorio git\Contribuicao\sample-factory\tests\envs\atari\test_envpool_atari.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+C:\Python312\Lib\importlib\__init__.py:90: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+tests\envs\atari\test_envpool_atari.py:6: in &lt;module&gt;
+    from sample_factory.algo.utils.misc import ExperimentStatus
+sample_factory\algo\utils\misc.py:1: in &lt;module&gt;
+    import torch
+E   ModuleNotFoundError: No module named 'torch'</error></testcase><testcase classname="" name="tests.envs.dmlab.test_dmlab" time="0.000"><error message="collection failure">ImportError while importing test module 'C:\Repositorio git\Contribuicao\sample-factory\tests\envs\dmlab\test_dmlab.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+C:\Python312\Lib\importlib\__init__.py:90: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+tests\envs\dmlab\test_dmlab.py:3: in &lt;module&gt;
+    from sample_factory.algo.utils.context import reset_global_context
+sample_factory\algo\utils\context.py:3: in &lt;module&gt;
+    from sample_factory.model.model_factory import ModelFactory
+sample_factory\model\model_factory.py:3: in &lt;module&gt;
+    from sample_factory.model.actor_critic import ActorCritic, default_make_actor_critic_func
+sample_factory\model\actor_critic.py:5: in &lt;module&gt;
+    import gymnasium as gym
+E   ModuleNotFoundError: No module named 'gymnasium'</error></testcase><testcase classname="" name="tests.envs.mujoco.test_envpool_mujoco" time="0.000"><error message="collection failure">ImportError while importing test module 'C:\Repositorio git\Contribuicao\sample-factory\tests\envs\mujoco\test_envpool_mujoco.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+C:\Python312\Lib\importlib\__init__.py:90: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+tests\envs\mujoco\test_envpool_mujoco.py:7: in &lt;module&gt;
+    from sample_factory.algo.utils.misc import ExperimentStatus
+sample_factory\algo\utils\misc.py:1: in &lt;module&gt;
+    import torch
+E   ModuleNotFoundError: No module named 'torch'</error></testcase><testcase classname="" name="tests.envs.mujoco.test_mujoco" time="0.000"><error message="collection failure">ImportError while importing test module 'C:\Repositorio git\Contribuicao\sample-factory\tests\envs\mujoco\test_mujoco.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+C:\Python312\Lib\importlib\__init__.py:90: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+tests\envs\mujoco\test_mujoco.py:7: in &lt;module&gt;
+    from sample_factory.algo.utils.misc import ExperimentStatus
+sample_factory\algo\utils\misc.py:1: in &lt;module&gt;
+    import torch
+E   ModuleNotFoundError: No module named 'torch'</error></testcase><testcase classname="" name="tests.envs.pettingzoo.test_pettingzoo" time="0.000"><error message="collection failure">ImportError while importing test module 'C:\Repositorio git\Contribuicao\sample-factory\tests\envs\pettingzoo\test_pettingzoo.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+C:\Python312\Lib\importlib\__init__.py:90: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+tests\envs\pettingzoo\test_pettingzoo.py:6: in &lt;module&gt;
+    from sample_factory.algo.utils.context import reset_global_context
+sample_factory\algo\utils\context.py:3: in &lt;module&gt;
+    from sample_factory.model.model_factory import ModelFactory
+sample_factory\model\model_factory.py:3: in &lt;module&gt;
+    from sample_factory.model.actor_critic import ActorCritic, default_make_actor_critic_func
+sample_factory\model\actor_critic.py:5: in &lt;module&gt;
+    import gymnasium as gym
+E   ModuleNotFoundError: No module named 'gymnasium'</error></testcase><testcase classname="" name="tests.envs.tuple_action_envs.test_mixed_dist_env_batched" time="0.000"><error message="collection failure">ImportError while importing test module 'C:\Repositorio git\Contribuicao\sample-factory\tests\envs\tuple_action_envs\test_mixed_dist_env_batched.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+C:\Python312\Lib\importlib\__init__.py:90: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+tests\envs\tuple_action_envs\test_mixed_dist_env_batched.py:3: in &lt;module&gt;
+    import gymnasium as gym
+E   ModuleNotFoundError: No module named 'gymnasium'</error></testcase><testcase classname="" name="tests.envs.tuple_action_envs.test_mixed_dist_env_non_batched" time="0.000"><error message="collection failure">ImportError while importing test module 'C:\Repositorio git\Contribuicao\sample-factory\tests\envs\tuple_action_envs\test_mixed_dist_env_non_batched.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+C:\Python312\Lib\importlib\__init__.py:90: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+tests\envs\tuple_action_envs\test_mixed_dist_env_non_batched.py:5: in &lt;module&gt;
+    import gymnasium as gym
+E   ModuleNotFoundError: No module named 'gymnasium'</error></testcase><testcase classname="" name="tests.envs.tuple_action_envs.test_two_discrete_action_dist_env_batched" time="0.000"><error message="collection failure">ImportError while importing test module 'C:\Repositorio git\Contribuicao\sample-factory\tests\envs\tuple_action_envs\test_two_discrete_action_dist_env_batched.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+C:\Python312\Lib\importlib\__init__.py:90: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+tests\envs\tuple_action_envs\test_two_discrete_action_dist_env_batched.py:5: in &lt;module&gt;
+    import gymnasium as gym
+E   ModuleNotFoundError: No module named 'gymnasium'</error></testcase><testcase classname="" name="tests.envs.tuple_action_envs.test_two_discrete_action_dist_env_non_batched" time="0.000"><error message="collection failure">ImportError while importing test module 'C:\Repositorio git\Contribuicao\sample-factory\tests\envs\tuple_action_envs\test_two_discrete_action_dist_env_non_batched.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+C:\Python312\Lib\importlib\__init__.py:90: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+tests\envs\tuple_action_envs\test_two_discrete_action_dist_env_non_batched.py:5: in &lt;module&gt;
+    import gymnasium as gym
+E   ModuleNotFoundError: No module named 'gymnasium'</error></testcase><testcase classname="" name="tests.envs.vizdoom.test_vizdoom_basic" time="0.000"><error message="collection failure">ImportError while importing test module 'C:\Repositorio git\Contribuicao\sample-factory\tests\envs\vizdoom\test_vizdoom_basic.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+C:\Python312\Lib\importlib\__init__.py:90: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+tests\envs\vizdoom\test_vizdoom_basic.py:5: in &lt;module&gt;
+    from sample_factory.algo.utils.context import reset_global_context
+sample_factory\algo\utils\context.py:3: in &lt;module&gt;
+    from sample_factory.model.model_factory import ModelFactory
+sample_factory\model\model_factory.py:3: in &lt;module&gt;
+    from sample_factory.model.actor_critic import ActorCritic, default_make_actor_critic_func
+sample_factory\model\actor_critic.py:5: in &lt;module&gt;
+    import gymnasium as gym
+E   ModuleNotFoundError: No module named 'gymnasium'</error></testcase><testcase classname="" name="tests.envs.vizdoom.test_vizdoom_multiplayer" time="0.000"><error message="collection failure">ImportError while importing test module 'C:\Repositorio git\Contribuicao\sample-factory\tests\envs\vizdoom\test_vizdoom_multiplayer.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+C:\Python312\Lib\importlib\__init__.py:90: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+tests\envs\vizdoom\test_vizdoom_multiplayer.py:6: in &lt;module&gt;
+    from sample_factory.algo.utils.context import reset_global_context
+sample_factory\algo\utils\context.py:3: in &lt;module&gt;
+    from sample_factory.model.model_factory import ModelFactory
+sample_factory\model\model_factory.py:3: in &lt;module&gt;
+    from sample_factory.model.actor_critic import ActorCritic, default_make_actor_critic_func
+sample_factory\model\actor_critic.py:5: in &lt;module&gt;
+    import gymnasium as gym
+E   ModuleNotFoundError: No module named 'gymnasium'</error></testcase><testcase classname="" name="tests.examples.test_example" time="0.000"><error message="collection failure">ImportError while importing test module 'C:\Repositorio git\Contribuicao\sample-factory\tests\examples\test_example.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+C:\Python312\Lib\importlib\__init__.py:90: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+tests\examples\test_example.py:7: in &lt;module&gt;
+    from sample_factory.algo.sampling.batched_sampling import BatchedVectorEnvRunner
+sample_factory\algo\sampling\batched_sampling.py:7: in &lt;module&gt;
+    import gymnasium as gym
+E   ModuleNotFoundError: No module named 'gymnasium'</error></testcase><testcase classname="" name="tests.examples.test_example_multi" time="0.000"><error message="collection failure">ImportError while importing test module 'C:\Repositorio git\Contribuicao\sample-factory\tests\examples\test_example_multi.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+C:\Python312\Lib\importlib\__init__.py:90: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+tests\examples\test_example_multi.py:5: in &lt;module&gt;
+    from sample_factory.utils.typing import Config
+sample_factory\utils\typing.py:6: in &lt;module&gt;
+    import torch
+E   ModuleNotFoundError: No module named 'torch'</error></testcase><testcase classname="" name="tests.examples.test_example_sampler" time="0.000"><error message="collection failure">ImportError while importing test module 'C:\Repositorio git\Contribuicao\sample-factory\tests\examples\test_example_sampler.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+C:\Python312\Lib\importlib\__init__.py:90: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+tests\examples\test_example_sampler.py:3: in &lt;module&gt;
+    from sample_factory.algo.utils.env_info import extract_env_info
+sample_factory\algo\utils\env_info.py:10: in &lt;module&gt;
+    import gymnasium as gym
+E   ModuleNotFoundError: No module named 'gymnasium'</error></testcase><testcase classname="" name="tests.test_launcher" time="0.000"><error message="collection failure">ImportError while importing test module 'C:\Repositorio git\Contribuicao\sample-factory\tests\test_launcher.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+C:\Python312\Lib\importlib\__init__.py:90: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+tests\test_launcher.py:7: in &lt;module&gt;
+    from sample_factory.launcher.run import launcher_argparser
+sample_factory\launcher\run.py:5: in &lt;module&gt;
+    from sample_factory.algo.utils.misc import ExperimentStatus
+sample_factory\algo\utils\misc.py:1: in &lt;module&gt;
+    import torch
+E   ModuleNotFoundError: No module named 'torch'</error></testcase><testcase classname="" name="tests.test_precheck" time="0.000"><error message="collection failure">ImportError while importing test module 'C:\Repositorio git\Contribuicao\sample-factory\tests\test_precheck.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+C:\Python312\Lib\importlib\__init__.py:90: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+tests\test_precheck.py:2: in &lt;module&gt;
+    import torch
+E   ModuleNotFoundError: No module named 'torch'</error></testcase><testcase classname="" name="tests.test_utils" time="0.000"><error message="collection failure">ImportError while importing test module 'C:\Repositorio git\Contribuicao\sample-factory\tests\test_utils.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+C:\Python312\Lib\importlib\__init__.py:90: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+tests\test_utils.py:4: in &lt;module&gt;
+    from sample_factory.utils.network import is_udp_port_available
+sample_factory\utils\network.py:3: in &lt;module&gt;
+    from sample_factory.utils.utils import log
+sample_factory\utils\utils.py:18: in &lt;module&gt;
+    import signal_slot.signal_slot
+E   ModuleNotFoundError: No module named 'signal_slot'</error></testcase></testsuite></testsuites>

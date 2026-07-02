@@ -1,0 +1,554 @@
+[
+  {
+    "arquivo": "sample_factory\\algo\\learning\\learner.py",
+    "convention": 107,
+    "total": 144,
+    "error": 3,
+    "warning": 12,
+    "refactor": 22
+  },
+  {
+    "arquivo": "sample_factory\\cfg\\cfg.py",
+    "convention": 122,
+    "total": 123,
+    "refactor": 1
+  },
+  {
+    "arquivo": "sample_factory\\algo\\sampling\\non_batched_sampling.py",
+    "convention": 72,
+    "total": 101,
+    "warning": 9,
+    "error": 2,
+    "refactor": 18
+  },
+  {
+    "arquivo": "sample_factory\\algo\\runners\\runner.py",
+    "convention": 41,
+    "total": 85,
+    "error": 2,
+    "warning": 26,
+    "refactor": 16
+  },
+  {
+    "arquivo": "sample_factory\\algo\\utils\\make_env.py",
+    "convention": 37,
+    "total": 70,
+    "warning": 9,
+    "error": 5,
+    "refactor": 19
+  },
+  {
+    "arquivo": "sample_factory\\algo\\sampling\\batched_sampling.py",
+    "convention": 34,
+    "total": 55,
+    "warning": 6,
+    "error": 3,
+    "refactor": 12
+  },
+  {
+    "arquivo": "sample_factory\\algo\\sampling\\sampler.py",
+    "convention": 41,
+    "total": 55,
+    "error": 2,
+    "refactor": 4,
+    "warning": 8
+  },
+  {
+    "arquivo": "sample_factory\\algo\\sampling\\rollout_worker.py",
+    "convention": 42,
+    "total": 53,
+    "warning": 3,
+    "error": 3,
+    "refactor": 5
+  },
+  {
+    "arquivo": "sample_factory\\algo\\utils\\action_distributions.py",
+    "convention": 37,
+    "total": 52,
+    "error": 5,
+    "refactor": 9,
+    "warning": 1
+  },
+  {
+    "arquivo": "sample_factory\\model\\actor_critic.py",
+    "convention": 44,
+    "total": 52,
+    "warning": 1,
+    "error": 4,
+    "refactor": 3
+  },
+  {
+    "arquivo": "sample_factory\\utils\\utils.py",
+    "convention": 42,
+    "total": 52,
+    "error": 4,
+    "warning": 3,
+    "refactor": 3
+  },
+  {
+    "arquivo": "sample_factory\\algo\\sampling\\inference_worker.py",
+    "convention": 28,
+    "total": 51,
+    "warning": 12,
+    "error": 2,
+    "refactor": 9
+  },
+  {
+    "arquivo": "sample_factory\\algo\\utils\\shared_buffers.py",
+    "convention": 31,
+    "total": 50,
+    "warning": 3,
+    "error": 4,
+    "refactor": 12
+  },
+  {
+    "arquivo": "sample_factory\\algo\\sampling\\evaluation_sampling_api.py",
+    "convention": 33,
+    "total": 49,
+    "warning": 8,
+    "error": 2,
+    "refactor": 6
+  },
+  {
+    "arquivo": "sample_factory\\envs\\env_wrappers.py",
+    "convention": 23,
+    "total": 49,
+    "warning": 9,
+    "error": 3,
+    "refactor": 14
+  },
+  {
+    "arquivo": "sample_factory\\pbt\\population_based_training.py",
+    "convention": 28,
+    "total": 44,
+    "warning": 9,
+    "error": 2,
+    "refactor": 5
+  },
+  {
+    "arquivo": "sample_factory\\model\\encoder.py",
+    "convention": 22,
+    "total": 38,
+    "error": 3,
+    "warning": 10,
+    "refactor": 3
+  },
+  {
+    "arquivo": "sample_factory\\cfg\\arguments.py",
+    "convention": 28,
+    "total": 36,
+    "warning": 7,
+    "refactor": 1
+  },
+  {
+    "arquivo": "sample_factory\\enjoy.py",
+    "convention": 19,
+    "total": 34,
+    "error": 4,
+    "refactor": 9,
+    "warning": 2
+  },
+  {
+    "arquivo": "sample_factory\\algo\\learning\\batcher.py",
+    "convention": 25,
+    "total": 34,
+    "error": 2,
+    "refactor": 4,
+    "warning": 3
+  },
+  {
+    "arquivo": "sample_factory\\algo\\learning\\learner_worker.py",
+    "convention": 24,
+    "total": 31,
+    "error": 3,
+    "warning": 2,
+    "refactor": 2
+  },
+  {
+    "arquivo": "sample_factory\\export_onnx.py",
+    "convention": 12,
+    "total": 28,
+    "error": 5,
+    "refactor": 6,
+    "warning": 5
+  },
+  {
+    "arquivo": "sample_factory\\algo\\utils\\model_sharing.py",
+    "convention": 19,
+    "total": 27,
+    "warning": 5,
+    "error": 2,
+    "refactor": 1
+  },
+  {
+    "arquivo": "sample_factory\\launcher\\run_description.py",
+    "convention": 11,
+    "total": 27,
+    "warning": 1,
+    "refactor": 15
+  },
+  {
+    "arquivo": "sample_factory\\algo\\utils\\running_mean_std.py",
+    "convention": 12,
+    "total": 26,
+    "error": 5,
+    "refactor": 9
+  },
+  {
+    "arquivo": "sample_factory\\envs\\env_utils.py",
+    "convention": 16,
+    "total": 24,
+    "warning": 3,
+    "refactor": 5
+  },
+  {
+    "arquivo": "sample_factory\\algo\\sampling\\sampling_utils.py",
+    "convention": 15,
+    "total": 22,
+    "warning": 3,
+    "error": 1,
+    "refactor": 3
+  },
+  {
+    "arquivo": "sample_factory\\algo\\utils\\optimizers.py",
+    "convention": 12,
+    "total": 21,
+    "error": 2,
+    "refactor": 3,
+    "warning": 4
+  },
+  {
+    "arquivo": "sample_factory\\algo\\utils\\rl_utils.py",
+    "convention": 14,
+    "total": 20,
+    "error": 3,
+    "refactor": 3
+  },
+  {
+    "arquivo": "sample_factory\\algo\\utils\\tensor_dict.py",
+    "convention": 7,
+    "total": 20,
+    "error": 2,
+    "refactor": 3,
+    "warning": 8
+  },
+  {
+    "arquivo": "sample_factory\\algo\\utils\\agent_policy_mapping.py",
+    "convention": 12,
+    "total": 18,
+    "warning": 1,
+    "refactor": 4,
+    "error": 1
+  },
+  {
+    "arquivo": "sample_factory\\algo\\learning\\rnn_utils.py",
+    "convention": 14,
+    "total": 17,
+    "error": 2,
+    "refactor": 1
+  },
+  {
+    "arquivo": "sample_factory\\algo\\utils\\env_info.py",
+    "convention": 12,
+    "total": 16,
+    "error": 1,
+    "refactor": 1,
+    "warning": 2
+  },
+  {
+    "arquivo": "sample_factory\\utils\\timing.py",
+    "convention": 13,
+    "total": 16,
+    "refactor": 1,
+    "warning": 2
+  },
+  {
+    "arquivo": "sample_factory\\model\\model_utils.py",
+    "convention": 7,
+    "total": 15,
+    "error": 3,
+    "refactor": 3,
+    "warning": 2
+  },
+  {
+    "arquivo": "sample_factory\\utils\\gpu_utils.py",
+    "convention": 11,
+    "total": 15,
+    "warning": 3,
+    "error": 1
+  },
+  {
+    "arquivo": "sample_factory\\algo\\utils\\tensor_utils.py",
+    "convention": 7,
+    "total": 14,
+    "error": 2,
+    "refactor": 5
+  },
+  {
+    "arquivo": "sample_factory\\envs\\pettingzoo_envs.py",
+    "convention": 11,
+    "total": 14,
+    "error": 1,
+    "refactor": 2
+  },
+  {
+    "arquivo": "sample_factory\\huggingface\\huggingface_utils.py",
+    "convention": 6,
+    "total": 14,
+    "error": 2,
+    "warning": 4,
+    "refactor": 2
+  },
+  {
+    "arquivo": "sample_factory\\launcher\\run_processes.py",
+    "convention": 7,
+    "total": 14,
+    "refactor": 5,
+    "warning": 2
+  },
+  {
+    "arquivo": "sample_factory\\launcher\\run_slurm.py",
+    "convention": 7,
+    "total": 13,
+    "refactor": 3,
+    "warning": 3
+  },
+  {
+    "arquivo": "sample_factory\\utils\\normalize.py",
+    "convention": 8,
+    "total": 12,
+    "error": 2,
+    "warning": 1,
+    "refactor": 1
+  },
+  {
+    "arquivo": "sample_factory\\eval.py",
+    "convention": 6,
+    "total": 11,
+    "warning": 4,
+    "error": 1
+  },
+  {
+    "arquivo": "sample_factory\\algo\\utils\\torch_utils.py",
+    "convention": 7,
+    "total": 11,
+    "error": 1,
+    "refactor": 3
+  },
+  {
+    "arquivo": "sample_factory\\launcher\\run.py",
+    "convention": 9,
+    "total": 10,
+    "warning": 1
+  },
+  {
+    "arquivo": "sample_factory\\model\\action_parameterization.py",
+    "convention": 4,
+    "total": 10,
+    "warning": 1,
+    "error": 2,
+    "refactor": 3
+  },
+  {
+    "arquivo": "sample_factory\\algo\\sampling\\sync_sampling_api.py",
+    "convention": 7,
+    "total": 9,
+    "warning": 2
+  },
+  {
+    "arquivo": "sample_factory\\algo\\utils\\context.py",
+    "convention": 4,
+    "total": 9,
+    "refactor": 2,
+    "warning": 3
+  },
+  {
+    "arquivo": "sample_factory\\algo\\utils\\gymnasium_utils.py",
+    "convention": 7,
+    "total": 9,
+    "error": 1,
+    "warning": 1
+  },
+  {
+    "arquivo": "sample_factory\\model\\core.py",
+    "convention": 6,
+    "total": 9,
+    "error": 2,
+    "refactor": 1
+  },
+  {
+    "arquivo": "sample_factory\\utils\\dicts.py",
+    "convention": 7,
+    "total": 9,
+    "refactor": 1,
+    "warning": 1
+  },
+  {
+    "arquivo": "sample_factory\\utils\\get_available_gpus.py",
+    "convention": 7,
+    "total": 9,
+    "warning": 1,
+    "error": 1
+  },
+  {
+    "arquivo": "sample_factory\\algo\\utils\\multiprocessing_utils.py",
+    "convention": 7,
+    "total": 8,
+    "refactor": 1
+  },
+  {
+    "arquivo": "sample_factory\\launcher\\run_ngc.py",
+    "convention": 4,
+    "total": 8,
+    "warning": 2,
+    "error": 1,
+    "refactor": 1
+  },
+  {
+    "arquivo": "sample_factory\\utils\\decay.py",
+    "convention": 5,
+    "total": 8,
+    "warning": 1,
+    "refactor": 2
+  },
+  {
+    "arquivo": "sample_factory\\algo\\utils\\misc.py",
+    "convention": 5,
+    "total": 7,
+    "error": 1,
+    "refactor": 1
+  },
+  {
+    "arquivo": "sample_factory\\huggingface\\push_to_hub.py",
+    "convention": 5,
+    "total": 7,
+    "warning": 2
+  },
+  {
+    "arquivo": "sample_factory\\model\\decoder.py",
+    "convention": 5,
+    "total": 7,
+    "error": 1,
+    "refactor": 1
+  },
+  {
+    "arquivo": "sample_factory\\utils\\tb.py",
+    "convention": 4,
+    "total": 7,
+    "refactor": 2,
+    "warning": 1
+  },
+  {
+    "arquivo": "sample_factory\\utils\\wandb_utils.py",
+    "convention": 4,
+    "total": 7,
+    "error": 2,
+    "warning": 1
+  },
+  {
+    "arquivo": "sample_factory\\utils\\__init__.py",
+    "refactor": 7,
+    "total": 7
+  },
+  {
+    "arquivo": "sample_factory\\algo\\runners\\runner_parallel.py",
+    "convention": 3,
+    "total": 6,
+    "error": 1,
+    "warning": 2
+  },
+  {
+    "arquivo": "sample_factory\\algo\\utils\\heartbeat.py",
+    "convention": 4,
+    "total": 6,
+    "error": 1,
+    "warning": 1
+  },
+  {
+    "arquivo": "sample_factory\\model\\model_factory.py",
+    "convention": 2,
+    "total": 6,
+    "warning": 4
+  },
+  {
+    "arquivo": "sample_factory\\utils\\gifs.py",
+    "convention": 5,
+    "total": 6,
+    "refactor": 1
+  },
+  {
+    "arquivo": "sample_factory\\algo\\utils\\spaces\\discretized.py",
+    "convention": 3,
+    "total": 5,
+    "error": 1,
+    "refactor": 1
+  },
+  {
+    "arquivo": "sample_factory\\model\\utils.py",
+    "convention": 3,
+    "total": 5,
+    "refactor": 1,
+    "error": 1
+  },
+  {
+    "arquivo": "sample_factory\\train.py",
+    "convention": 4,
+    "total": 4
+  },
+  {
+    "arquivo": "sample_factory\\algo\\runners\\runner_serial.py",
+    "convention": 4,
+    "total": 4
+  },
+  {
+    "arquivo": "sample_factory\\envs\\create_env.py",
+    "convention": 3,
+    "total": 4,
+    "warning": 1
+  },
+  {
+    "arquivo": "sample_factory\\utils\\network.py",
+    "convention": 2,
+    "total": 4,
+    "refactor": 1,
+    "warning": 1
+  },
+  {
+    "arquivo": "sample_factory\\utils\\typing.py",
+    "convention": 2,
+    "total": 4,
+    "error": 2
+  },
+  {
+    "arquivo": "sample_factory\\algo\\sampling\\stats.py",
+    "convention": 3,
+    "total": 3
+  },
+  {
+    "arquivo": "sample_factory\\cfg\\configurable.py",
+    "convention": 2,
+    "total": 3,
+    "refactor": 1
+  },
+  {
+    "arquivo": "sample_factory\\huggingface\\load_from_hub.py",
+    "convention": 3,
+    "total": 3
+  },
+  {
+    "arquivo": "sample_factory\\utils\\attr_dict.py",
+    "convention": 2,
+    "total": 3,
+    "refactor": 1
+  },
+  {
+    "arquivo": "sample_factory\\launcher\\launcher_utils.py",
+    "convention": 2,
+    "total": 2
+  },
+  {
+    "arquivo": "sample_factory\\utils\\algo_version.py",
+    "convention": 2,
+    "total": 2
+  }
+]

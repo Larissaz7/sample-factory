@@ -1,0 +1,374 @@
+{
+  "sample_factory\\enjoy.py": {
+    "mi": 39.553473550746794,
+    "rank": "A"
+  },
+  "sample_factory\\eval.py": {
+    "mi": 55.517830400543794,
+    "rank": "A"
+  },
+  "sample_factory\\export_onnx.py": {
+    "mi": 59.82680168642405,
+    "rank": "A"
+  },
+  "sample_factory\\train.py": {
+    "mi": 82.37643610157907,
+    "rank": "A"
+  },
+  "sample_factory\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "sample_factory\\algo\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "sample_factory\\algo\\evaluators\\default_evaluator.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "sample_factory\\algo\\evaluators\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "sample_factory\\algo\\learning\\batcher.py": {
+    "mi": 44.62220305206737,
+    "rank": "A"
+  },
+  "sample_factory\\algo\\learning\\learner.py": {
+    "mi": 13.607625782303513,
+    "rank": "B"
+  },
+  "sample_factory\\algo\\learning\\learner_worker.py": {
+    "mi": 51.242273957598215,
+    "rank": "A"
+  },
+  "sample_factory\\algo\\learning\\rnn_utils.py": {
+    "mi": 69.85473093843747,
+    "rank": "A"
+  },
+  "sample_factory\\algo\\learning\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "sample_factory\\algo\\runners\\runner.py": {
+    "mi": 14.76637665998922,
+    "rank": "B"
+  },
+  "sample_factory\\algo\\runners\\runner_parallel.py": {
+    "mi": 57.43854331028736,
+    "rank": "A"
+  },
+  "sample_factory\\algo\\runners\\runner_serial.py": {
+    "mi": 75.6783652141428,
+    "rank": "A"
+  },
+  "sample_factory\\algo\\runners\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "sample_factory\\algo\\sampling\\batched_sampling.py": {
+    "mi": 49.2034321434916,
+    "rank": "A"
+  },
+  "sample_factory\\algo\\sampling\\evaluation_sampling_api.py": {
+    "mi": 41.12915408124744,
+    "rank": "A"
+  },
+  "sample_factory\\algo\\sampling\\inference_worker.py": {
+    "mi": 37.176990124983824,
+    "rank": "A"
+  },
+  "sample_factory\\algo\\sampling\\non_batched_sampling.py": {
+    "mi": 39.328426118516255,
+    "rank": "A"
+  },
+  "sample_factory\\algo\\sampling\\rollout_worker.py": {
+    "mi": 50.64534340767144,
+    "rank": "A"
+  },
+  "sample_factory\\algo\\sampling\\sampler.py": {
+    "mi": 46.50190978214686,
+    "rank": "A"
+  },
+  "sample_factory\\algo\\sampling\\sampling_utils.py": {
+    "mi": 77.0569913143989,
+    "rank": "A"
+  },
+  "sample_factory\\algo\\sampling\\stats.py": {
+    "mi": 90.82175895534007,
+    "rank": "A"
+  },
+  "sample_factory\\algo\\sampling\\sync_sampling_api.py": {
+    "mi": 70.44802013536966,
+    "rank": "A"
+  },
+  "sample_factory\\algo\\sampling\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "sample_factory\\algo\\utils\\action_distributions.py": {
+    "mi": 39.723958711761675,
+    "rank": "A"
+  },
+  "sample_factory\\algo\\utils\\agent_policy_mapping.py": {
+    "mi": 77.3052320015066,
+    "rank": "A"
+  },
+  "sample_factory\\algo\\utils\\context.py": {
+    "mi": 93.14849079988898,
+    "rank": "A"
+  },
+  "sample_factory\\algo\\utils\\env_info.py": {
+    "mi": 62.80462485627325,
+    "rank": "A"
+  },
+  "sample_factory\\algo\\utils\\gymnasium_utils.py": {
+    "mi": 75.72973506961594,
+    "rank": "A"
+  },
+  "sample_factory\\algo\\utils\\heartbeat.py": {
+    "mi": 88.987060480264,
+    "rank": "A"
+  },
+  "sample_factory\\algo\\utils\\make_env.py": {
+    "mi": 40.325951673105166,
+    "rank": "A"
+  },
+  "sample_factory\\algo\\utils\\misc.py": {
+    "mi": 72.65955414040288,
+    "rank": "A"
+  },
+  "sample_factory\\algo\\utils\\model_sharing.py": {
+    "mi": 56.81631730440364,
+    "rank": "A"
+  },
+  "sample_factory\\algo\\utils\\multiprocessing_utils.py": {
+    "mi": 59.2109172704387,
+    "rank": "A"
+  },
+  "sample_factory\\algo\\utils\\optimizers.py": {
+    "mi": 47.36262873374008,
+    "rank": "A"
+  },
+  "sample_factory\\algo\\utils\\rl_utils.py": {
+    "mi": 64.4790141381622,
+    "rank": "A"
+  },
+  "sample_factory\\algo\\utils\\running_mean_std.py": {
+    "mi": 48.795014245101775,
+    "rank": "A"
+  },
+  "sample_factory\\algo\\utils\\shared_buffers.py": {
+    "mi": 52.12160207531909,
+    "rank": "A"
+  },
+  "sample_factory\\algo\\utils\\tensor_dict.py": {
+    "mi": 53.872773280443184,
+    "rank": "A"
+  },
+  "sample_factory\\algo\\utils\\tensor_utils.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "sample_factory\\algo\\utils\\torch_utils.py": {
+    "mi": 63.01357166378961,
+    "rank": "A"
+  },
+  "sample_factory\\algo\\utils\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "sample_factory\\algo\\utils\\spaces\\discretized.py": {
+    "mi": 83.38604606091029,
+    "rank": "A"
+  },
+  "sample_factory\\algo\\utils\\spaces\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "sample_factory\\cfg\\arguments.py": {
+    "mi": 51.07951453991229,
+    "rank": "A"
+  },
+  "sample_factory\\cfg\\cfg.py": {
+    "mi": 58.64687620804794,
+    "rank": "A"
+  },
+  "sample_factory\\cfg\\configurable.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "sample_factory\\cfg\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "sample_factory\\envs\\create_env.py": {
+    "mi": 87.60603344048438,
+    "rank": "A"
+  },
+  "sample_factory\\envs\\env_utils.py": {
+    "mi": 71.72778206340605,
+    "rank": "A"
+  },
+  "sample_factory\\envs\\env_wrappers.py": {
+    "mi": 38.78268799800983,
+    "rank": "A"
+  },
+  "sample_factory\\envs\\pettingzoo_envs.py": {
+    "mi": 56.590276317467925,
+    "rank": "A"
+  },
+  "sample_factory\\envs\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "sample_factory\\huggingface\\huggingface_utils.py": {
+    "mi": 43.02121644826768,
+    "rank": "A"
+  },
+  "sample_factory\\huggingface\\load_from_hub.py": {
+    "mi": 73.1756852057256,
+    "rank": "A"
+  },
+  "sample_factory\\huggingface\\push_to_hub.py": {
+    "mi": 60.782395592600544,
+    "rank": "A"
+  },
+  "sample_factory\\huggingface\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "sample_factory\\launcher\\launcher_utils.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "sample_factory\\launcher\\run.py": {
+    "mi": 56.81143054372827,
+    "rank": "A"
+  },
+  "sample_factory\\launcher\\run_description.py": {
+    "mi": 53.31653052072502,
+    "rank": "A"
+  },
+  "sample_factory\\launcher\\run_ngc.py": {
+    "mi": 69.83295731298573,
+    "rank": "A"
+  },
+  "sample_factory\\launcher\\run_processes.py": {
+    "mi": 45.49251012860103,
+    "rank": "A"
+  },
+  "sample_factory\\launcher\\run_slurm.py": {
+    "mi": 57.45024050511786,
+    "rank": "A"
+  },
+  "sample_factory\\launcher\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "sample_factory\\model\\action_parameterization.py": {
+    "mi": 72.77023960090372,
+    "rank": "A"
+  },
+  "sample_factory\\model\\actor_critic.py": {
+    "mi": 44.42462493142048,
+    "rank": "A"
+  },
+  "sample_factory\\model\\core.py": {
+    "mi": 56.05153380665633,
+    "rank": "A"
+  },
+  "sample_factory\\model\\decoder.py": {
+    "mi": 64.09152739498799,
+    "rank": "A"
+  },
+  "sample_factory\\model\\encoder.py": {
+    "mi": 50.50625257321709,
+    "rank": "A"
+  },
+  "sample_factory\\model\\model_factory.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "sample_factory\\model\\model_utils.py": {
+    "mi": 55.25972544960744,
+    "rank": "A"
+  },
+  "sample_factory\\model\\utils.py": {
+    "mi": 67.01766199205355,
+    "rank": "A"
+  },
+  "sample_factory\\model\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "sample_factory\\pbt\\population_based_training.py": {
+    "mi": 36.9162379622051,
+    "rank": "A"
+  },
+  "sample_factory\\pbt\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "sample_factory\\utils\\algo_version.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "sample_factory\\utils\\attr_dict.py": {
+    "mi": 76.42020806643173,
+    "rank": "A"
+  },
+  "sample_factory\\utils\\decay.py": {
+    "mi": 79.97260013123218,
+    "rank": "A"
+  },
+  "sample_factory\\utils\\dicts.py": {
+    "mi": 67.96573774099548,
+    "rank": "A"
+  },
+  "sample_factory\\utils\\get_available_gpus.py": {
+    "mi": 61.286167985302576,
+    "rank": "A"
+  },
+  "sample_factory\\utils\\gifs.py": {
+    "mi": 61.18226844567859,
+    "rank": "A"
+  },
+  "sample_factory\\utils\\gpu_utils.py": {
+    "mi": 70.32946918277985,
+    "rank": "A"
+  },
+  "sample_factory\\utils\\network.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "sample_factory\\utils\\normalize.py": {
+    "mi": 76.11815837621837,
+    "rank": "A"
+  },
+  "sample_factory\\utils\\tb.py": {
+    "mi": 62.455833740134324,
+    "rank": "A"
+  },
+  "sample_factory\\utils\\timing.py": {
+    "mi": 43.14409300314183,
+    "rank": "A"
+  },
+  "sample_factory\\utils\\typing.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "sample_factory\\utils\\utils.py": {
+    "mi": 40.23321063250764,
+    "rank": "A"
+  },
+  "sample_factory\\utils\\wandb_utils.py": {
+    "mi": 75.19646281832813,
+    "rank": "A"
+  },
+  "sample_factory\\utils\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  }
+}

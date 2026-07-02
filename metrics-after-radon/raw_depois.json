@@ -1,0 +1,848 @@
+{
+  "sample_factory\\enjoy.py": {
+    "loc": 331,
+    "lloc": 201,
+    "sloc": 242,
+    "comments": 13,
+    "multi": 3,
+    "blank": 74,
+    "single_comments": 12
+  },
+  "sample_factory\\eval.py": {
+    "loc": 119,
+    "lloc": 87,
+    "sloc": 87,
+    "comments": 7,
+    "multi": 0,
+    "blank": 25,
+    "single_comments": 7
+  },
+  "sample_factory\\export_onnx.py": {
+    "loc": 194,
+    "lloc": 133,
+    "sloc": 136,
+    "comments": 15,
+    "multi": 5,
+    "blank": 40,
+    "single_comments": 13
+  },
+  "sample_factory\\train.py": {
+    "loc": 41,
+    "lloc": 25,
+    "sloc": 25,
+    "comments": 4,
+    "multi": 0,
+    "blank": 12,
+    "single_comments": 4
+  },
+  "sample_factory\\__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "sample_factory\\algo\\__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "sample_factory\\algo\\evaluators\\default_evaluator.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "sample_factory\\algo\\evaluators\\__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "sample_factory\\algo\\learning\\batcher.py": {
+    "loc": 275,
+    "lloc": 191,
+    "sloc": 189,
+    "comments": 20,
+    "multi": 6,
+    "blank": 62,
+    "single_comments": 18
+  },
+  "sample_factory\\algo\\learning\\learner.py": {
+    "loc": 1165,
+    "lloc": 765,
+    "sloc": 862,
+    "comments": 77,
+    "multi": 0,
+    "blank": 232,
+    "single_comments": 71
+  },
+  "sample_factory\\algo\\learning\\learner_worker.py": {
+    "loc": 164,
+    "lloc": 123,
+    "sloc": 117,
+    "comments": 5,
+    "multi": 0,
+    "blank": 42,
+    "single_comments": 5
+  },
+  "sample_factory\\algo\\learning\\rnn_utils.py": {
+    "loc": 158,
+    "lloc": 69,
+    "sloc": 67,
+    "comments": 27,
+    "multi": 28,
+    "blank": 37,
+    "single_comments": 26
+  },
+  "sample_factory\\algo\\learning\\__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "sample_factory\\algo\\runners\\runner.py": {
+    "loc": 769,
+    "lloc": 548,
+    "sloc": 557,
+    "comments": 38,
+    "multi": 19,
+    "blank": 157,
+    "single_comments": 36
+  },
+  "sample_factory\\algo\\runners\\runner_parallel.py": {
+    "loc": 65,
+    "lloc": 47,
+    "sloc": 50,
+    "comments": 0,
+    "multi": 0,
+    "blank": 15,
+    "single_comments": 0
+  },
+  "sample_factory\\algo\\runners\\runner_serial.py": {
+    "loc": 27,
+    "lloc": 20,
+    "sloc": 20,
+    "comments": 1,
+    "multi": 0,
+    "blank": 6,
+    "single_comments": 1
+  },
+  "sample_factory\\algo\\runners\\__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "sample_factory\\algo\\sampling\\batched_sampling.py": {
+    "loc": 398,
+    "lloc": 228,
+    "sloc": 240,
+    "comments": 40,
+    "multi": 43,
+    "blank": 79,
+    "single_comments": 36
+  },
+  "sample_factory\\algo\\sampling\\evaluation_sampling_api.py": {
+    "loc": 322,
+    "lloc": 231,
+    "sloc": 232,
+    "comments": 23,
+    "multi": 0,
+    "blank": 67,
+    "single_comments": 23
+  },
+  "sample_factory\\algo\\sampling\\inference_worker.py": {
+    "loc": 413,
+    "lloc": 283,
+    "sloc": 299,
+    "comments": 32,
+    "multi": 0,
+    "blank": 85,
+    "single_comments": 29
+  },
+  "sample_factory\\algo\\sampling\\non_batched_sampling.py": {
+    "loc": 710,
+    "lloc": 373,
+    "sloc": 403,
+    "comments": 45,
+    "multi": 119,
+    "blank": 145,
+    "single_comments": 43
+  },
+  "sample_factory\\algo\\sampling\\rollout_worker.py": {
+    "loc": 312,
+    "lloc": 176,
+    "sloc": 192,
+    "comments": 39,
+    "multi": 16,
+    "blank": 62,
+    "single_comments": 42
+  },
+  "sample_factory\\algo\\sampling\\sampler.py": {
+    "loc": 296,
+    "lloc": 195,
+    "sloc": 222,
+    "comments": 9,
+    "multi": 0,
+    "blank": 63,
+    "single_comments": 11
+  },
+  "sample_factory\\algo\\sampling\\sampling_utils.py": {
+    "loc": 74,
+    "lloc": 50,
+    "sloc": 47,
+    "comments": 4,
+    "multi": 4,
+    "blank": 20,
+    "single_comments": 3
+  },
+  "sample_factory\\algo\\sampling\\stats.py": {
+    "loc": 31,
+    "lloc": 18,
+    "sloc": 15,
+    "comments": 0,
+    "multi": 5,
+    "blank": 9,
+    "single_comments": 2
+  },
+  "sample_factory\\algo\\sampling\\sync_sampling_api.py": {
+    "loc": 65,
+    "lloc": 48,
+    "sloc": 51,
+    "comments": 3,
+    "multi": 0,
+    "blank": 12,
+    "single_comments": 2
+  },
+  "sample_factory\\algo\\sampling\\__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "sample_factory\\algo\\utils\\action_distributions.py": {
+    "loc": 323,
+    "lloc": 213,
+    "sloc": 225,
+    "comments": 10,
+    "multi": 22,
+    "blank": 66,
+    "single_comments": 10
+  },
+  "sample_factory\\algo\\utils\\agent_policy_mapping.py": {
+    "loc": 66,
+    "lloc": 37,
+    "sloc": 38,
+    "comments": 7,
+    "multi": 7,
+    "blank": 16,
+    "single_comments": 5
+  },
+  "sample_factory\\algo\\utils\\context.py": {
+    "loc": 50,
+    "lloc": 26,
+    "sloc": 23,
+    "comments": 0,
+    "multi": 12,
+    "blank": 15,
+    "single_comments": 0
+  },
+  "sample_factory\\algo\\utils\\env_info.py": {
+    "loc": 189,
+    "lloc": 129,
+    "sloc": 144,
+    "comments": 1,
+    "multi": 0,
+    "blank": 44,
+    "single_comments": 1
+  },
+  "sample_factory\\algo\\utils\\gymnasium_utils.py": {
+    "loc": 128,
+    "lloc": 52,
+    "sloc": 72,
+    "comments": 11,
+    "multi": 21,
+    "blank": 27,
+    "single_comments": 8
+  },
+  "sample_factory\\algo\\utils\\heartbeat.py": {
+    "loc": 35,
+    "lloc": 24,
+    "sloc": 21,
+    "comments": 1,
+    "multi": 4,
+    "blank": 10,
+    "single_comments": 0
+  },
+  "sample_factory\\algo\\utils\\make_env.py": {
+    "loc": 389,
+    "lloc": 284,
+    "sloc": 259,
+    "comments": 17,
+    "multi": 24,
+    "blank": 86,
+    "single_comments": 20
+  },
+  "sample_factory\\algo\\utils\\misc.py": {
+    "loc": 44,
+    "lloc": 29,
+    "sloc": 27,
+    "comments": 2,
+    "multi": 0,
+    "blank": 15,
+    "single_comments": 2
+  },
+  "sample_factory\\algo\\utils\\model_sharing.py": {
+    "loc": 166,
+    "lloc": 111,
+    "sloc": 110,
+    "comments": 2,
+    "multi": 12,
+    "blank": 41,
+    "single_comments": 3
+  },
+  "sample_factory\\algo\\utils\\multiprocessing_utils.py": {
+    "loc": 41,
+    "lloc": 28,
+    "sloc": 28,
+    "comments": 0,
+    "multi": 0,
+    "blank": 13,
+    "single_comments": 0
+  },
+  "sample_factory\\algo\\utils\\optimizers.py": {
+    "loc": 189,
+    "lloc": 116,
+    "sloc": 134,
+    "comments": 6,
+    "multi": 9,
+    "blank": 40,
+    "single_comments": 6
+  },
+  "sample_factory\\algo\\utils\\rl_utils.py": {
+    "loc": 110,
+    "lloc": 67,
+    "sloc": 65,
+    "comments": 9,
+    "multi": 7,
+    "blank": 33,
+    "single_comments": 5
+  },
+  "sample_factory\\algo\\utils\\running_mean_std.py": {
+    "loc": 152,
+    "lloc": 110,
+    "sloc": 117,
+    "comments": 5,
+    "multi": 5,
+    "blank": 24,
+    "single_comments": 6
+  },
+  "sample_factory\\algo\\utils\\shared_buffers.py": {
+    "loc": 243,
+    "lloc": 148,
+    "sloc": 165,
+    "comments": 30,
+    "multi": 0,
+    "blank": 53,
+    "single_comments": 25
+  },
+  "sample_factory\\algo\\utils\\tensor_dict.py": {
+    "loc": 156,
+    "lloc": 107,
+    "sloc": 111,
+    "comments": 7,
+    "multi": 7,
+    "blank": 31,
+    "single_comments": 7
+  },
+  "sample_factory\\algo\\utils\\tensor_utils.py": {
+    "loc": 47,
+    "lloc": 33,
+    "sloc": 33,
+    "comments": 0,
+    "multi": 0,
+    "blank": 14,
+    "single_comments": 0
+  },
+  "sample_factory\\algo\\utils\\torch_utils.py": {
+    "loc": 66,
+    "lloc": 45,
+    "sloc": 44,
+    "comments": 2,
+    "multi": 0,
+    "blank": 19,
+    "single_comments": 3
+  },
+  "sample_factory\\algo\\utils\\__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "sample_factory\\algo\\utils\\spaces\\discretized.py": {
+    "loc": 14,
+    "lloc": 10,
+    "sloc": 10,
+    "comments": 1,
+    "multi": 0,
+    "blank": 4,
+    "single_comments": 0
+  },
+  "sample_factory\\algo\\utils\\spaces\\__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "sample_factory\\cfg\\arguments.py": {
+    "loc": 295,
+    "lloc": 153,
+    "sloc": 195,
+    "comments": 13,
+    "multi": 26,
+    "blank": 59,
+    "single_comments": 15
+  },
+  "sample_factory\\cfg\\cfg.py": {
+    "loc": 861,
+    "lloc": 180,
+    "sloc": 778,
+    "comments": 19,
+    "multi": 5,
+    "blank": 55,
+    "single_comments": 23
+  },
+  "sample_factory\\cfg\\configurable.py": {
+    "loc": 6,
+    "lloc": 5,
+    "sloc": 4,
+    "comments": 0,
+    "multi": 0,
+    "blank": 2,
+    "single_comments": 0
+  },
+  "sample_factory\\cfg\\__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "sample_factory\\envs\\create_env.py": {
+    "loc": 46,
+    "lloc": 22,
+    "sloc": 26,
+    "comments": 0,
+    "multi": 9,
+    "blank": 11,
+    "single_comments": 0
+  },
+  "sample_factory\\envs\\env_utils.py": {
+    "loc": 142,
+    "lloc": 81,
+    "sloc": 72,
+    "comments": 3,
+    "multi": 27,
+    "blank": 38,
+    "single_comments": 5
+  },
+  "sample_factory\\envs\\env_wrappers.py": {
+    "loc": 461,
+    "lloc": 302,
+    "sloc": 294,
+    "comments": 20,
+    "multi": 49,
+    "blank": 97,
+    "single_comments": 21
+  },
+  "sample_factory\\envs\\pettingzoo_envs.py": {
+    "loc": 79,
+    "lloc": 55,
+    "sloc": 52,
+    "comments": 0,
+    "multi": 3,
+    "blank": 22,
+    "single_comments": 2
+  },
+  "sample_factory\\envs\\__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "sample_factory\\huggingface\\huggingface_utils.py": {
+    "loc": 146,
+    "lloc": 64,
+    "sloc": 118,
+    "comments": 0,
+    "multi": 0,
+    "blank": 28,
+    "single_comments": 0
+  },
+  "sample_factory\\huggingface\\load_from_hub.py": {
+    "loc": 27,
+    "lloc": 10,
+    "sloc": 21,
+    "comments": 0,
+    "multi": 0,
+    "blank": 6,
+    "single_comments": 0
+  },
+  "sample_factory\\huggingface\\push_to_hub.py": {
+    "loc": 61,
+    "lloc": 27,
+    "sloc": 52,
+    "comments": 0,
+    "multi": 0,
+    "blank": 9,
+    "single_comments": 0
+  },
+  "sample_factory\\huggingface\\__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "sample_factory\\launcher\\launcher_utils.py": {
+    "loc": 6,
+    "lloc": 4,
+    "sloc": 4,
+    "comments": 0,
+    "multi": 0,
+    "blank": 2,
+    "single_comments": 0
+  },
+  "sample_factory\\launcher\\run.py": {
+    "loc": 77,
+    "lloc": 48,
+    "sloc": 60,
+    "comments": 1,
+    "multi": 0,
+    "blank": 16,
+    "single_comments": 1
+  },
+  "sample_factory\\launcher\\run_description.py": {
+    "loc": 187,
+    "lloc": 123,
+    "sloc": 119,
+    "comments": 5,
+    "multi": 14,
+    "blank": 43,
+    "single_comments": 11
+  },
+  "sample_factory\\launcher\\run_ngc.py": {
+    "loc": 72,
+    "lloc": 41,
+    "sloc": 47,
+    "comments": 0,
+    "multi": 4,
+    "blank": 21,
+    "single_comments": 0
+  },
+  "sample_factory\\launcher\\run_processes.py": {
+    "loc": 189,
+    "lloc": 112,
+    "sloc": 129,
+    "comments": 2,
+    "multi": 0,
+    "blank": 50,
+    "single_comments": 10
+  },
+  "sample_factory\\launcher\\run_slurm.py": {
+    "loc": 192,
+    "lloc": 101,
+    "sloc": 130,
+    "comments": 1,
+    "multi": 4,
+    "blank": 49,
+    "single_comments": 9
+  },
+  "sample_factory\\launcher\\__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "sample_factory\\model\\action_parameterization.py": {
+    "loc": 76,
+    "lloc": 42,
+    "sloc": 48,
+    "comments": 4,
+    "multi": 4,
+    "blank": 18,
+    "single_comments": 6
+  },
+  "sample_factory\\model\\actor_critic.py": {
+    "loc": 375,
+    "lloc": 229,
+    "sloc": 262,
+    "comments": 27,
+    "multi": 4,
+    "blank": 85,
+    "single_comments": 24
+  },
+  "sample_factory\\model\\core.py": {
+    "loc": 86,
+    "lloc": 62,
+    "sloc": 61,
+    "comments": 2,
+    "multi": 0,
+    "blank": 23,
+    "single_comments": 2
+  },
+  "sample_factory\\model\\decoder.py": {
+    "loc": 35,
+    "lloc": 25,
+    "sloc": 24,
+    "comments": 0,
+    "multi": 0,
+    "blank": 11,
+    "single_comments": 0
+  },
+  "sample_factory\\model\\encoder.py": {
+    "loc": 242,
+    "lloc": 160,
+    "sloc": 164,
+    "comments": 11,
+    "multi": 9,
+    "blank": 61,
+    "single_comments": 8
+  },
+  "sample_factory\\model\\model_factory.py": {
+    "loc": 60,
+    "lloc": 38,
+    "sloc": 29,
+    "comments": 3,
+    "multi": 19,
+    "blank": 9,
+    "single_comments": 3
+  },
+  "sample_factory\\model\\model_utils.py": {
+    "loc": 72,
+    "lloc": 51,
+    "sloc": 50,
+    "comments": 1,
+    "multi": 0,
+    "blank": 20,
+    "single_comments": 2
+  },
+  "sample_factory\\model\\utils.py": {
+    "loc": 17,
+    "lloc": 13,
+    "sloc": 13,
+    "comments": 0,
+    "multi": 0,
+    "blank": 4,
+    "single_comments": 0
+  },
+  "sample_factory\\model\\__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "sample_factory\\pbt\\population_based_training.py": {
+    "loc": 419,
+    "lloc": 264,
+    "sloc": 287,
+    "comments": 36,
+    "multi": 4,
+    "blank": 94,
+    "single_comments": 34
+  },
+  "sample_factory\\pbt\\__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "sample_factory\\utils\\algo_version.py": {
+    "loc": 3,
+    "lloc": 1,
+    "sloc": 1,
+    "comments": 2,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 2
+  },
+  "sample_factory\\utils\\attr_dict.py": {
+    "loc": 8,
+    "lloc": 7,
+    "sloc": 7,
+    "comments": 0,
+    "multi": 0,
+    "blank": 1,
+    "single_comments": 0
+  },
+  "sample_factory\\utils\\decay.py": {
+    "loc": 47,
+    "lloc": 25,
+    "sloc": 24,
+    "comments": 2,
+    "multi": 11,
+    "blank": 10,
+    "single_comments": 2
+  },
+  "sample_factory\\utils\\dicts.py": {
+    "loc": 103,
+    "lloc": 66,
+    "sloc": 62,
+    "comments": 0,
+    "multi": 14,
+    "blank": 26,
+    "single_comments": 1
+  },
+  "sample_factory\\utils\\get_available_gpus.py": {
+    "loc": 42,
+    "lloc": 23,
+    "sloc": 30,
+    "comments": 0,
+    "multi": 0,
+    "blank": 12,
+    "single_comments": 0
+  },
+  "sample_factory\\utils\\gifs.py": {
+    "loc": 41,
+    "lloc": 18,
+    "sloc": 39,
+    "comments": 0,
+    "multi": 0,
+    "blank": 2,
+    "single_comments": 0
+  },
+  "sample_factory\\utils\\gpu_utils.py": {
+    "loc": 90,
+    "lloc": 49,
+    "sloc": 58,
+    "comments": 4,
+    "multi": 9,
+    "blank": 19,
+    "single_comments": 4
+  },
+  "sample_factory\\utils\\network.py": {
+    "loc": 15,
+    "lloc": 12,
+    "sloc": 12,
+    "comments": 0,
+    "multi": 0,
+    "blank": 3,
+    "single_comments": 0
+  },
+  "sample_factory\\utils\\normalize.py": {
+    "loc": 76,
+    "lloc": 44,
+    "sloc": 43,
+    "comments": 8,
+    "multi": 9,
+    "blank": 20,
+    "single_comments": 4
+  },
+  "sample_factory\\utils\\state_proxy.py": {
+    "loc": 35,
+    "lloc": 28,
+    "sloc": 25,
+    "comments": 0,
+    "multi": 0,
+    "blank": 8,
+    "single_comments": 2
+  },
+  "sample_factory\\utils\\tb.py": {
+    "loc": 91,
+    "lloc": 57,
+    "sloc": 70,
+    "comments": 1,
+    "multi": 4,
+    "blank": 16,
+    "single_comments": 1
+  },
+  "sample_factory\\utils\\timing.py": {
+    "loc": 161,
+    "lloc": 123,
+    "sloc": 117,
+    "comments": 3,
+    "multi": 0,
+    "blank": 41,
+    "single_comments": 3
+  },
+  "sample_factory\\utils\\typing.py": {
+    "loc": 31,
+    "lloc": 18,
+    "sloc": 18,
+    "comments": 2,
+    "multi": 0,
+    "blank": 11,
+    "single_comments": 2
+  },
+  "sample_factory\\utils\\utils.py": {
+    "loc": 497,
+    "lloc": 301,
+    "sloc": 305,
+    "comments": 28,
+    "multi": 22,
+    "blank": 139,
+    "single_comments": 31
+  },
+  "sample_factory\\utils\\wandb_utils.py": {
+    "loc": 72,
+    "lloc": 34,
+    "sloc": 51,
+    "comments": 2,
+    "multi": 4,
+    "blank": 15,
+    "single_comments": 2
+  },
+  "sample_factory\\utils\\__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  }
+}
